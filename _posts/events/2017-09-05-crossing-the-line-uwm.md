@@ -2,12 +2,12 @@
 layout: event
 sidebar: event
 title: "Crossing the Line (UWM)"
-starts_at: "2017-09-05T13:00Z"
-ends_at: "2017-09-05T23:00Z"
+starts_at: "2017-09-05"
+ends_at: "2017-09-05"
 location: "Wisconsin Historical Society and UW-Milwaukee"
 ---
 
-## The Milwaukee Fair Housing Marches of 1967-1968 (Exhibit opening)
+## The Milwaukee Fair Housing Marches of 1967-1968 (Exhibit closing)
 
 "How do citizens work for change when faced with injustice? How can individuals make a difference? What can you do to end segregation today?
 
